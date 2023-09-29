@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Deepak
-- 👀 I’m interested in Data and Coding
-- 🌱 I’m currently learning Machine learning and Data Science
+
+- 👋 Hi, I’m Deepak Bisht, the creator and maintainer of this repository. I'm a dedicated data analyst with expertise in data analysis, statistical modeling, and machine learning. I’m committed to using data for informed decision-making, with practical experience in R, Python, and Tableau, including deep learning and machine learning.
 - 📫 Contact me: deepakbisht.1361@gmail.com
 
 <!---
