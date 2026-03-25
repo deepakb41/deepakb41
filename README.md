@@ -1,10 +1,4 @@
-
-- 👋 Hi, I’m Deepak Bisht, the creator and maintainer of this repository. I'm a dedicated data analyst with expertise in data analysis, statistical modelling, and machine learning. I’m committed to using data for informed decision-making, with practical experience in R, Python, and Tableau, including deep learning and machine learning.
-
-- Visit my Portfolio - https://sites.google.com/view/deepak-bisht
-- 📫 Contact me: deepakbisht.1361@gmail.com
-
-<!---
-deepakb41/deepakb41 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Deepak Bisht. I build AI and automated data pipelines so I can pretend to be busy while the machines do the heavy lifting.
+- 📈 I'm a Data Analyst with practical experience in Python, R, Tableau, and deep learning. I specialize in making data do the talking so humans don't have to guess.
+- 🔗 **Portfolio:** [Take a look here](https://sites.google.com/view/deepak-bisht)
+- 📫 **Contact me:** deepakbisht.1361@gmail.com (I promise a human will reply).
